@@ -1,2 +1,2 @@
-# kokoa-clone-2019
- kokoa-clone-2019
+# kakao-clone-v2
+ kakao-clone-2.0
